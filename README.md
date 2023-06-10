@@ -13,9 +13,7 @@ The purpose of this R program is to analyze website performance based on two dat
 This directory is organized with the following folder structure. 
 - "Programs" folder will house all relevant R code used to produce the figures.
 - "Data" folder will house the source data set, intermediate data sets produced for the analysis,and the final deliverable xlsx workbook
-- "Results" folder will house the slide deck presentation and all relevant figures created. 
-- For the sake of time and simplicity I chose to utilize power point to create the slide deck. 
-- To avoid input error as figures and analysis is updated, I would typically use beamer from latex to produce power points. 
+- "Results" folder will house the slide deck presentation and all relevant figures created. For the sake of time and simplicity I chose to utilize power point to create the slide deck. To avoid input error as figures and analysis is updated, I would typically use beamer from latex to produce power points. 
 - "hlpr func" folder will house all helper functions created to run the analysis 
 
 *Procedures:*
