@@ -18,5 +18,5 @@ This directory is organized with the following folder structure.
 
 *Procedures:*
 
-To run the program, start by running the 00_Prologue.R script. This will set your working directory folder structure. Proceed through each R script in chronological order. R scripts given the same superscript are independent and can be run in the order of the users choosing. E.g., 02_historical data exploration.R can be ran before 02_historical metric analysis.R or vice versa. 
+To run the program, start by openning up the R project and running the 00_Prologue.R script. This will set your working directory folder structure. Proceed through each R script in chronological order. R scripts given the same superscript are independent and can be run in the order of the users choosing. E.g., 02_historical data exploration.R can be ran before 02_historical metric analysis.R or vice versa. 
 
