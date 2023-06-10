@@ -1,5 +1,7 @@
 # Read Me 
-*Author*: Sarah Medoff
+*Author*: 
+
+Sarah Medoff
 
 *Purpose* 
 
